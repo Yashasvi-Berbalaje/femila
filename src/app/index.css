@@ -1,0 +1,31 @@
+/* General Input and Select Field Styles */
+.MuiInputBase-root-MuiOutlinedInput-root,
+.MuiInputBase-root-MuiOutlinedInput-root,
+.MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root,
+.css-i12hqd {
+  border-radius: 12px !important;
+}
+
+/* Focused State Styles for Input and Select Fields */
+.MuiInputBase-root-MuiOutlinedInput-root.Mui-focused
+  .MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root.Mui-focused
+  .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(245, 91, 29, 1) !important;
+  border-radius: 12px !important;
+}
+
+/* Focused State for Input Label */
+.MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
+  color: rgba(0, 0, 0, 0.6) !important;
+}
+
+/* Input Label Styles */
+.MuiInputLabel-root,
+.MuiInputLabel-root {
+  font-family: "Outfit" !important;
+  font-size: 16px !important;
+  letter-spacing: 0.00938em !important;
+  font-weight: 400 !important;
+  line-height: 1.4375em !important;
+  color: #8a8a8a !important;
+}

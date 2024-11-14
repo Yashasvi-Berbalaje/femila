@@ -1,0 +1,487 @@
+@font-face {
+  font-family: "arboria-medium";
+  src: url("../../public/assets/fonts/Arboria-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "arboria-book";
+  src: url("../../public/assets/fonts/Arboria-Book.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: url("../../public/assets/fonts/Outfit.ttf") format("truetype");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.buttton:hover {
+  transform: translateY(-2px);
+}
+
+.MuiFormLabel-root-MuiInputLabel-root {
+  font-family: Outfit !important;
+}
+.MuiInputLabel-root {
+  font-family: Outfit !important;
+}
+
+.MuiInputBase-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(245, 91, 29, 1);
+  border-radius: 12px;
+}
+.MuiInputBase-root {
+  border-radius: 12px;
+}
+.MuiInputBase-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(245, 91, 29, 1) !important;
+  border-radius: 12px !important;
+}
+.MuiFormLabel-root.Mui-focused {
+  color: rgba(0, 0, 0, 0.6) !important;
+}
+
+
+/* --------------new code--------------- */
+
+
+.scrollnone::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+.scrollnone {
+  scrollbar-width: none; /* For Firefox */
+  -ms-overflow-style: none;  /* For Internet Explorer and Edge */
+}
+.scrollnone::-ms-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+
+.star-inner-container i{
+  color: white;
+  font-size: 95%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+
+.hover-underline-animation {
+  display: inline-block;
+  position: relative;
+}
+
+.hover-underline-animation::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  background-color: #C53678;
+  transition: transform 0.25s ease-out;
+}
+
+.hover-underline-animation:hover::after {
+  transform: scaleX(1);
+}
+
+.hover-underline-animation.left::after {
+  transform-origin: bottom right;
+}
+
+.hover-underline-animation.left:hover::after {
+  transform-origin: bottom left;
+}
+
+
+.hover-underline-animation-center {
+  display: inline-block;
+  position: relative;
+}
+
+.hover-underline-animation-center::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  transition: transform 0.4s ease-out;
+}
+
+.hover-underline-animation-center:hover::after {
+  transform: scaleX(1);
+}
+
+.hover-underline-animation-center.center::after {
+  transform-origin: bottom center;
+}
+
+.hover-underline-animation-center.center:hover::after {
+  transform-origin: bottom center;
+}
+
+/* --------insurance card underline------- */
+
+.hover-underline-animation-card {
+  display: inline-block;
+  position: relative;
+}
+
+.hover-underline-animation-card::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: white;
+  transition: transform 0.4s ease-out;
+}
+
+.hover-underline-animation-card:hover::after {
+  transform: scaleX(1);
+}
+
+.hover-underline-animation-card.center::after {
+  transform-origin: bottom center;
+}
+
+.hover-underline-animation-card.center:hover::after {
+  transform-origin: bottom center;
+}
+
+/* -----footer ani ------------ */
+.hover-underline-animation-footer {
+  display: inline-block;
+  position: relative;
+}
+
+.hover-underline-animation-footer::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  transition: transform 0.4s ease-out;
+}
+
+.hover-underline-animation-footer:hover::after {
+  transform: scaleX(1);
+}
+
+.hover-underline-animation-footer.left-footer::after {
+  transform-origin: bottom right;
+}
+
+.hover-underline-animation-footer.left-footer:hover::after {
+  transform-origin: bottom left;
+}
+
+/* -------footer ani----------- */
+
+/* --------------mobile menu--------------- */
+
+.hover-underline-animation-m-menu {
+  display: inline-block;
+  position: relative;
+}
+
+.hover-underline-animation-m-menu::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  transition: transform 0.4s ease-out;
+}
+
+.hover-underline-animation-m-menu:hover::after {
+  transform: scaleX(1);
+}
+
+.hover-underline-animation-m-menu.left-m-menu::after {
+  transform-origin: bottom right;
+}
+
+.hover-underline-animation-m-menu.left-m-menu:hover::after {
+  transform-origin: bottom left;
+}
+
+/* --------------mobile menu--------------- */
+
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  transition: transform 0.3s ease;
+
+  /* -------navbar shadow------ */
+  
+  /* -webkit-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .04);
+  -moz-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .04);
+  -o-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .04);
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, .04); */
+
+  /* -------navbar shadow------ */
+
+}
+
+.hiddenn {
+  transform: translateY(-100%);  /* Move navbar off the screen */
+}
+
+
+/* -------responsiveness-------- */
+
+.mbl-nav{
+    -webkit-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .04);
+  -moz-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .04);
+  -o-box-shadow: 0 0 10px 10px rgba(0, 0, 0, .04);
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, .04);
+}
+
+@media screen and (max-width: 1100px) {
+  .font-size-18-protect-card{
+    font-size: 18px;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .mbl-nav{
+    display: none;
+    
+  }
+
+}
+@media screen and (max-width: 1024px) {
+  /* .reviews-right{
+    width: 75%;
+    margin-left: 10%;
+  } */
+}
+@media screen and (max-width: 1000px) {
+  
+  .insurance-card-wrapper{
+    padding: 50px 20px;
+    height: 100%;
+  }
+  
+
+  .protectrent-wrapper{
+    padding-bottom: 40px;
+  }
+  .online-wrapper, .customer-reviews-wrapper{
+    padding-top: 40px !important;
+  }
+  .online-wrapper, .customer-reviews-wrapper{
+    padding-bottom: 40px !important;
+  }
+
+  .protectCard-wrapper-text{
+    width: 300px !important;
+  }
+
+  
+
+  .web-nav{
+    display: none;
+  }
+  
+  .display-none{
+    display: none;
+  }
+
+  .gap-40{
+    gap: 40px;
+  }
+
+  .line-h-36{
+    line-height: 36px;
+  }
+  .line-h-28{
+    line-height: 28px;
+  }
+  .line-h-48{
+    line-height: 45px;
+  }
+
+  .font-size-12{
+    font-size: 12px;
+  }
+  .font-size-14{
+    font-size: 14px;
+  }
+  .font-size-16{
+    font-size: 16px;
+  }
+  .font-size-18{
+    font-size: 18px;
+  }
+  .font-size-20{
+    font-size: 20px;
+  }
+  .font-size-24{
+    font-size: 24px;
+  }
+  .font-size-48{
+    font-size: 48px;
+  }
+
+}
+@media screen and (max-width: 700px) {
+  .reviews-right{
+    display: none;
+    width: 60% !important;
+  }
+  .reviews-left{
+    width: 100% !important;
+  }
+
+}
+@media screen and (max-width: 850px) {
+}
+@media screen and (max-width: 950px) {
+  .prev-arrow{
+    display: none;
+  }
+}
+@media screen and (max-width: 800px) {
+
+  .mbl-nav, .home-hero-wrapper, .protectrent-wrapper, .online-wrapper, .customer-reviews-wrapper, .insurance-wrapper, .broker-wrapper, .footer-wrapper{
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .footer-header{
+    flex-direction: column;
+  }
+  .footer-center-left-text{
+    text-align: center;
+    width: 100%;
+  }
+
+  .footer-center-left{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .footer-bottom-wrapper{
+    padding-bottom: 40px;
+  }
+  .footer-bottom-copy{
+    text-align: center;
+    width: 100%;
+  }
+
+  .footer-center-left{
+    padding-bottom: 60px;
+  }
+
+}
+
+.zindex-50{
+  z-index: 50 !important;
+}
+
+.menu-layer{
+  pointer-events: none !important;
+}
+
+@media screen and (max-width: 1180px) {
+  
+  .online-center{
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+  }
+  .online-center-left, .online-center-right{
+    width: 100%;
+  }
+  
+  .online-center-left{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    overflow: visible;
+    height: 100%;
+    width: 300px;
+    overflow-x: scroll !important;
+
+  }
+  
+  .translate-card{
+    transform: translateY(0%);
+  }
+  .translate-card-x-30{
+    margin-left: 80%;
+  }
+
+  .card-1, .card-2{
+    min-height: 280px;
+    min-width: 220px;
+  }
+  
+  .online-center-right-text-center{
+    text-align: center;
+  }
+
+  .online-text-center{
+    text-align: center;
+  }
+
+  .online-right-first-second{
+    width: 100%;
+  }
+
+  .display-none-1180{
+    display: none;
+  }
+
+  .online-center-right{
+    padding-left: 0px;
+  }
+
+}
+
+.scrollbar2::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+
+.scrollbar2::-webkit-scrollbar-thumb {
+  background-color:  #ff5841;
+  border-radius: 20px;
+}
+
+.scrollbar2{
+  padding-bottom: 50px;
+}
+
+.dropdown-div{
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.link-3-shadow{
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+/* --------------new code--------------- */

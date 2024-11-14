@@ -1,0 +1,1248 @@
+{
+    "Business Building and Contents": {
+        "4520": [
+            {
+                "ID": 3,
+                "Description": "Do you require cover for playing surfaces?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "4530": [
+            {
+                "ID": 3,
+                "Description": "Do you require cover for playing surfaces?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "4279": [
+            {
+                "ID": 10,
+                "Description": "Is waste stored in an orderly manner and removed weekly?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "6712": [
+            {
+                "ID": 11,
+                "Description": "Is the Building more than 50% occupied?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "1611": [
+            {
+                "ID": 17,
+                "Description": "Is any printing equipment left operating while the site is unattended?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "1612": [
+            {
+                "ID": 17,
+                "Description": "Is any printing equipment left operating while the site is unattended?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "1620": [
+            {
+                "ID": 17,
+                "Description": "Is any printing equipment left operating while the site is unattended?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "3242": [
+            {
+                "ID": 19,
+                "Description": "Is the insured a Cabinet Maker?",
+                "Section": "Business Building and Contents"
+            },
+            {
+                "ID": 33,
+                "Description": "Are there commercial wood working operations performed at the Location?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "3339": [
+            {
+                "ID": 24,
+                "Description": "Is any of the stock stored in the open air?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "4231": [
+            {
+                "ID": 24,
+                "Description": "Is any of the stock stored in the open air?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "All": [
+            {
+                "ID": 16,
+                "Description": "Has the building been rewired?",
+                "Section": "Business Building and Contents"
+            },
+            {
+                "ID": 26,
+                "Description": "Do you require flood cover?",
+                "Section": "Business Building and Contents"
+            },
+            {
+                "ID": 34,
+                "Description": "Is the property going to be unoccupied for more than 30 days?",
+                "Section": "Business Building and Contents"
+            },
+            {
+                "ID": 35,
+                "Description": "Are the premises connected to Town Water?",
+                "Section": "Business Building and Contents"
+            },
+            {
+                "ID": 36,
+                "Description": "Are the premises 100% covered by sprinklers?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "4511": [
+            {
+                "ID": 30,
+                "Description": "Are there any free standing or benchtop deep fryers or any wok cooking at the location?",
+                "Section": "Business Building and Contents"
+            },
+            {
+                "ID": 31,
+                "Description": "Is the location covered by Sprinklers that are in accordance with Australian Standards?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "4512": [
+            {
+                "ID": 30,
+                "Description": "Are there any free standing or benchtop deep fryers or any wok cooking at the location?",
+                "Section": "Business Building and Contents"
+            },
+            {
+                "ID": 31,
+                "Description": "Is the location covered by Sprinklers that are in accordance with Australian Standards?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "4513": [
+            {
+                "ID": 30,
+                "Description": "Are there any free standing or benchtop deep fryers or any wok cooking at the location?",
+                "Section": "Business Building and Contents"
+            },
+            {
+                "ID": 31,
+                "Description": "Is the location covered by Sprinklers that are in accordance with Australian Standards?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "3011": [
+            {
+                "ID": 33,
+                "Description": "Are there commercial wood working operations performed at the Location?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "3019": [
+            {
+                "ID": 33,
+                "Description": "Are there commercial wood working operations performed at the Location?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "3020": [
+            {
+                "ID": 33,
+                "Description": "Are there commercial wood working operations performed at the Location?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "45": [
+            {
+                "ID": 27,
+                "Description": "Does the business employ a professional cleaner to clean the exhaust or extraction system ducting annually?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "114": [
+            {
+                "ID": 27,
+                "Description": "Does the business employ a professional cleaner to clean the exhaust or extraction system ducting annually?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "512": [
+            {
+                "ID": 27,
+                "Description": "Does the business employ a professional cleaner to clean the exhaust or extraction system ducting annually?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "451": [
+            {
+                "ID": 27,
+                "Description": "Does the business employ a professional cleaner to clean the exhaust or extraction system ducting annually?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "345": [
+            {
+                "ID": 27,
+                "Description": "Does the business employ a professional cleaner to clean the exhaust or extraction system ducting annually?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "200": [
+            {
+                "ID": 27,
+                "Description": "Does the business employ a professional cleaner to clean the exhaust or extraction system ducting annually?",
+                "Section": "Business Building and Contents"
+            }
+        ],
+        "000": [
+            {
+                "ID": 27,
+                "Description": "Does the business employ a professional cleaner to clean the exhaust or extraction system ducting annually?",
+                "Section": "Business Building and Contents"
+            }
+        ]
+    },
+    "Business Liability": {
+        "3011": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 5,
+                "Description": "Is the business installing roofing insulation?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3019": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 5,
+                "Description": "Is the business installing roofing insulation?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3020": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 5,
+                "Description": "Is the business installing roofing insulation?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3211": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3212": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3221": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3222": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3223": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 5,
+                "Description": "Is the business installing roofing insulation?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3224": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3231": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 1,
+                "Description": "Does the business undertake any work in Victoria and require cover for the Victorian Plumbers Consumer Protection Cover?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3232": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 2,
+                "Description": "Does the business undertake any work in Queensland and require cover for the Queensland Electricians Consumer Protection Cover?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3233": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 5,
+                "Description": "Is the business installing roofing insulation?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3234": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 5,
+                "Description": "Is the business installing roofing insulation?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3239": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 5,
+                "Description": "Is the business installing roofing insulation?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3241": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 5,
+                "Description": "Is the business installing roofing insulation?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3242": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3243": [
+            {
+                "ID": 4,
+                "Description": "Does the business perform work away from insured's premises, that involves the use of cutting, welding or soldering equipment?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "9511": [
+            {
+                "ID": 7,
+                "Description": "Print for all Hairdresser ANZSICs",
+                "Section": "Business Liability"
+            }
+        ],
+        "9512": [
+            {
+                "ID": 7,
+                "Description": "Print for all Hairdresser ANZSICs",
+                "Section": "Business Liability"
+            }
+        ],
+        "6711": [
+            {
+                "ID": 6,
+                "Description": "Print for all Property Owners ANZSICs",
+                "Section": "Business Liability"
+            }
+        ],
+        "6712": [
+            {
+                "ID": 6,
+                "Description": "Print for all Property Owners ANZSICs",
+                "Section": "Business Liability"
+            }
+        ],
+        "4231": [
+            {
+                "ID": 12,
+                "Description": "Does the business manufacture or directly import or export any safety, protective or baby clothing?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 25,
+                "Description": "Does this business undertake any offsite installation for customers?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4241": [
+            {
+                "ID": 12,
+                "Description": "Does the business manufacture or directly import or export any safety, protective or baby clothing?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 21,
+                "Description": "Does the business rent or hire sporting equipment to customers?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 20,
+                "Description": "Does this business sell eBikes?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4245": [
+            {
+                "ID": 12,
+                "Description": "Does the business manufacture or directly import or export any safety, protective or baby clothing?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4251": [
+            {
+                "ID": 12,
+                "Description": "Does the business manufacture or directly import or export any safety, protective or baby clothing?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4252": [
+            {
+                "ID": 12,
+                "Description": "Does the business manufacture or directly import or export any safety, protective or baby clothing?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4260": [
+            {
+                "ID": 12,
+                "Description": "Does the business manufacture or directly import or export any safety, protective or baby clothing?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4279": [
+            {
+                "ID": 12,
+                "Description": "Does the business manufacture or directly import or export any safety, protective or baby clothing?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4310": [
+            {
+                "ID": 12,
+                "Description": "Does the business manufacture or directly import or export any safety, protective or baby clothing?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4320": [
+            {
+                "ID": 12,
+                "Description": "Does the business manufacture or directly import or export any safety, protective or baby clothing?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3244": [
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3245": [
+            {
+                "ID": 13,
+                "Description": "Does the business undertake any single contracts greater than $200,000?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "7313": [
+            {
+                "ID": 14,
+                "Description": "Does the business conduct any Tree lopping or branch cutting above 5 metres?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "7311": [
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "7312": [
+            {
+                "ID": 15,
+                "Description": "Does the business perform work above 3 stories?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3606": [
+            {
+                "ID": 18,
+                "Description": "Is there alcohol consumed on the premises?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4123": [
+            {
+                "ID": 18,
+                "Description": "Is there alcohol consumed on the premises?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3734": [
+            {
+                "ID": 21,
+                "Description": "Does the business rent or hire sporting equipment to customers?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 20,
+                "Description": "Does this business sell eBikes?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4229": [
+            {
+                "ID": 21,
+                "Description": "Does the business rent or hire sporting equipment to customers?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 20,
+                "Description": "Does this business sell eBikes?",
+                "Section": "Business Liability"
+            }
+        ],
+        "8101": [
+            {
+                "ID": 22,
+                "Description": "Are there any people under the age of 18 participating in the classes?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 23,
+                "Description": "Does this business take students on any excursions?",
+                "Section": "Business Liability"
+            }
+        ],
+        "8102": [
+            {
+                "ID": 22,
+                "Description": "Are there any people under the age of 18 participating in the classes?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 23,
+                "Description": "Does this business take students on any excursions?",
+                "Section": "Business Liability"
+            }
+        ],
+        "8212": [
+            {
+                "ID": 22,
+                "Description": "Are there any people under the age of 18 participating in the classes?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 23,
+                "Description": "Does this business take students on any excursions?",
+                "Section": "Business Liability"
+            }
+        ],
+        "8219": [
+            {
+                "ID": 22,
+                "Description": "Are there any people under the age of 18 participating in the classes?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 23,
+                "Description": "Does this business take students on any excursions?",
+                "Section": "Business Liability"
+            }
+        ],
+        "8220": [
+            {
+                "ID": 22,
+                "Description": "Are there any people under the age of 18 participating in the classes?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 23,
+                "Description": "Does this business take students on any excursions?",
+                "Section": "Business Liability"
+            }
+        ],
+        "3339": [
+            {
+                "ID": 25,
+                "Description": "Does this business undertake any offsite installation for customers?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4511": [
+            {
+                "ID": 28,
+                "Description": "Is the business licensed to serve alcohol?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 29,
+                "Description": "Does the restaurant have a dance floor?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4512": [
+            {
+                "ID": 28,
+                "Description": "Is the business licensed to serve alcohol?",
+                "Section": "Business Liability"
+            }
+        ],
+        "4513": [
+            {
+                "ID": 28,
+                "Description": "Is the business licensed to serve alcohol?",
+                "Section": "Business Liability"
+            }
+        ],
+        "All": [
+            {
+                "ID": 39,
+                "Description": "Does the Business import or export goods?",
+                "Section": "Business Liability"
+            },
+            {
+                "ID": 41,
+                "Description": "Does the business import or export goods from the US or Canada?",
+                "Section": "Business Liability"
+            }
+        ],
+        "9111": [
+            {
+                "ID": 8,
+                "Description": "Is this business a Yoga or Pilates Instructor or Studio?",
+                "Section": "Business Laibility"
+            }
+        ]
+    },
+    "Glass": {
+        "4110": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4121": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4122": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4123": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4129": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4211": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4212": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4213": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4214": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4221": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4222": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4229": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4231": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            },
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4232": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4241": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4242": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4243": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4244": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4245": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4251": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4252": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4253": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4259": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "42604271": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4272": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4273": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4274": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ],
+        "4279": [
+            {
+                "ID": 9,
+                "Description": "Are the business premises in a fully enclosed shopping complex?",
+                "Section": "Glass"
+            }
+        ]
+    },
+    "Theft and Glass": {
+        "6221": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6222": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6223": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6229": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6230": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6240": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6310": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6321": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6322": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6330": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6411": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6419": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6420": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6910": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6921": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6922": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6923": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6924": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6925": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6931": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6932": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6940": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6950": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6961": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6962": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6970": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ],
+        "6991": [
+            {
+                "ID": 32,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft and Glass"
+            }
+        ]
+    },
+    "Theft, Money and Glass": {
+        "All": [
+            {
+                "ID": 37,
+                "Description": "Is the business located in a Retail or Office Building with after hours security?",
+                "Section": "Theft, Money and Glass"
+            }
+        ]
+    },
+    "Equipment Breakdown": {
+       
+    },
+    "Portable Business Content": {
+    
+    }
+}
